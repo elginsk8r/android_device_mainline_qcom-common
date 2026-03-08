@@ -1,0 +1,13 @@
+# MSM89XX families
+MSM89XX_FAMILY := msm8916% msm8929 msm8936 msm8939%
+MSM89XX_FAMILY += msm8917 msm8920 msm8937 msm8940 qcm2150 qm215 sdm429 sdm439
+MSM89XX_FAMILY += msm8953% sdm450 sdm632
+
+# SDM670 families
+SDM670_FAMILY := sdm670 sdm710
+
+# SM7150 families
+SM7150_FAMILY := sm7150%
+
+# SM8550 families
+SM8550_FAMILY := qcs8550
