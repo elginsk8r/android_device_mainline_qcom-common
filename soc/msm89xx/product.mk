@@ -34,6 +34,9 @@ endif
 PRODUCT_PACKAGES += \
     init.mainline.qcom.msm89xx.rc
 
+# LK2ND
+TARGET_LK2ND_COMPAT ?= true
+
 # Modem
 PRODUCT_PACKAGES += \
     rmtfs \
