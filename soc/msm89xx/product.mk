@@ -13,10 +13,7 @@ endif
 
 # Firmware
 PRODUCT_PACKAGES += \
-    linux_firmware_qcom-a300 \
-    linux_firmware_qcom-a420 \
-    linux_firmware_qcom-a530 \
-    linux_firmware_qcom-venus-1.8
+    linux_firmware_qcom-msm89xx
 
 # Firmware symlinks
 PRODUCT_PACKAGES += \
